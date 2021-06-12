@@ -239,7 +239,7 @@ class Landing extends React.Component {
                     <div className="icon icon-lg icon-shape icon-shape-success shadow rounded-circle mb-5">
                       <i className="ni ni-settings-gear-65" />
                     </div>
-                    <h3>Background Career</h3>
+                    <h3>Personal Pitches</h3>
                     <p>
                     I am Abdullah AlAbbadi, a person who has advanced experience and profession in the field of computer work and how it works and is able to deal with it in terms of hardware and software, in addition to being a programmer, and I have experience in the field of JavaScript, HTML and CSS, which is valued in 6 months duration.
                     </p>
