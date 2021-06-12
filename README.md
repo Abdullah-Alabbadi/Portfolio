@@ -227,4 +227,4 @@ Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
 
-Live deployed site URL: <https://abdullah-alabbadi-portfolio.netlify.app/>
+Live deployed site URL: <https://abdullah-alabbadi-portfolio.netlify.app/profile-page>
