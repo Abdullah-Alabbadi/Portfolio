@@ -32,7 +32,7 @@ import Register from "views/examples/Register.js";
 ReactDOM.render(
   <BrowserRouter>
     <Switch>
-      <Route path="/" exact render={props => <Index {...props} />} />
+      <Route path="3" exact render={props => <Index {...props} />} />
       <Route
         path="/landing-page"
         exact
@@ -40,7 +40,7 @@ ReactDOM.render(
       />
       <Route path="/login-page" exact render={props => <Login {...props} />} />
       <Route
-        path="/profile-page"
+        path="/"
         exact
         render={props => <Profile {...props} />}
       />
